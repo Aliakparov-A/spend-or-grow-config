@@ -1,6 +1,6 @@
 {
   "latestVersion": "1.0",
   "minRequiredVersion": "1.0",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "message": "Доступна новая версия"
 }
