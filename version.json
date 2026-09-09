@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.0.0",
-  "minVersion": "1.0.0",
-  "updateUrl": "https://apps.apple.com/app/idXXXXXXXX",
+  "latestVersion": "1.3",
+  "minVersion": "1.0",
+  "updateUrl": "https://apps.apple.com/",
   "messages": {
-    "ru": "Первая версия приложения.",
-    "en": "The first version of the app.",
-    "kk": "Қолданбаның алғашқы нұсқасы."
+    "ru": "Тестовое описание.",
+    "en": "Test description.",
+    "kk": "Сынақ сипаттамасы."
   }
 }
