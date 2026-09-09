@@ -1,5 +1,10 @@
 {
-  "latestVersion": "1.0",
-  "minRequiredVersion": "1.0",
-  "message": "Доступна новая версия"
+  "latestVersion": "1.0.0",
+  "minVersion": "1.0.0",
+  "updateUrl": "https://apps.apple.com/app/idXXXXXXXX",
+  "messages": {
+    "ru": "Первая версия приложения.",
+    "en": "The first version of the app.",
+    "kk": "Қолданбаның алғашқы нұсқасы."
+  }
 }
